@@ -1,3 +1,3 @@
 # zoom_clone
 
-A new Flutter project.
+Build a complete Zoom clone with Flutter, Firebase & Jitsi Meet
